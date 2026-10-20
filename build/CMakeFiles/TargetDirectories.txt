@@ -1,0 +1,3 @@
+C:/Users/sweth/MiniVM/build/CMakeFiles/minivm.dir
+C:/Users/sweth/MiniVM/build/CMakeFiles/edit_cache.dir
+C:/Users/sweth/MiniVM/build/CMakeFiles/rebuild_cache.dir
